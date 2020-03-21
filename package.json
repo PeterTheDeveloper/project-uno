@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/PeterTheDeveloper/project-uno/issues"
   },
-  "homepage": "https://github.com/PeterTheDeveloper/project-uno#readme"
+  "homepage": "https://github.com/PeterTheDeveloper/project-uno#readme",
+  "dependencies": {
+    "uno-engine": "^0.1.2-alpha"
+  }
 }
