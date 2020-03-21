@@ -1,0 +1,25 @@
+{
+  "name": "project-uno",
+  "version": "1.0.0",
+  "description": "web app for uno game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterTheDeveloper/project-uno.git"
+  },
+  "keywords": [
+    "uno",
+    "project",
+    "marcylab",
+    "javascript"
+  ],
+  "author": "Peter Rose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterTheDeveloper/project-uno/issues"
+  },
+  "homepage": "https://github.com/PeterTheDeveloper/project-uno#readme"
+}
